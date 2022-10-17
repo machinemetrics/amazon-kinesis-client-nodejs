@@ -1,5 +1,5 @@
 {
-  "name": "aws-kcl",
+  "name": "@machinemetrics/aws-kcl",
   "description": "Kinesis Client Libray (KCL) in Node.js.",
   "version": "2.2.0",
   "author": {
@@ -44,7 +44,7 @@
   "homepage": "https://github.com/awslabs/amazon-kinesis-client-nodejs",
   "repository": {
     "type": "git",
-    "url": "git://github.com/awslabs/amazon-kinesis-client-nodejs.git"
+    "url": "git+https://github.com/machinemetrics/amazon-kinesis-client-nodejs.git"
   },
   "bugs": {
     "url": "https://github.com/awslabs/amazon-kinesis-client-nodejs/issues"
